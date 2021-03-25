@@ -1,0 +1,36 @@
+#EmployeeSQL ERD
+
+Department
+-
+dept_no varchar PK
+dept_name string
+
+DeptEmployee
+-
+emp_no string FK >- Employees.emp_no
+dept_no varchar FK >- Department.dept_no
+
+Employees
+-
+emp_no string PK FK -< DeptManager.emp_no
+emp_title string FK >- Titles.title_id
+birth_date date
+first_name string
+last_name string
+sex varchar(1)
+hire_date date
+
+DeptManager
+-
+dept_no varchar FK >- Department.dept_no
+emp_no string FK
+
+Titles
+-
+title_id string FK
+title string
+
+Salaries
+-
+emp_no string FK - Employees.emp_no
+salary money
