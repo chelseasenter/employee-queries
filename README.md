@@ -1,7 +1,7 @@
 # SQL Homework - Employee Database: A Mystery in Two Parts
 
-![sql.png](EmployeeSQL\visuals\sql_hp.png)
-
+![sql.png](EmployeeSQL/visuals/sql_hp.PNG)
+ 
 ## Background
 
 I was tasked with analyzing the employee data for the fictional company - Pewlett Hackard. 
