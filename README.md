@@ -1,4 +1,4 @@
-# SQL Homework - Employee Database: A Mystery in Two Parts
+# SQL Homework - Employee Database
 
 ![sql.png](EmployeeSQL/visuals/sql_hp.PNG)
  
@@ -6,17 +6,17 @@
 
 I was tasked with analyzing the employee data for the fictional company - Pewlett Hackard. 
 
-### Data Engineering & Data Analysis
-Given six csv files, I:
-> created tables to hold the data from the files
-> stored the tables in a SQL database
-> used queries to answer questions about the data
+#### Data Engineering & Data Analysis
+Given six csv files, I...
+> created tables to hold the data from the files <p>
+> stored the tables in a SQL database <p>
+> designed queries to answer questions about the data <p>
 
-### About the Project
+## Project Folder Outline
 
---This repository, __sql-challenge__, contains the main project folder, [EmployeeSQL](EmployeeSQL) where all files are stored <p> <p>
+--This repository, __sql-challenge__, contains the main project folder, [EmployeeSQL](EmployeeSQL) where all files are stored: <p> <p>
 
-[table-schema.sql](EmployeeSQL/table_schema.sql) -- creates tables, copies csv file information, displays resulting table <p>
+[table-schema.sql](EmployeeSQL/table_schema.sql) -- sql file that creates tables, copies csv file information, displays resulting table <p>
 
 [queries.sql](EmployeeSQL/queries.sql) -- contains the queries used for data analysis <p>
 > 1. Details of Employees: employee number, last name, first name, sex, and salary <p>
@@ -28,11 +28,11 @@ Given six csv files, I:
 > 7. Sales and Development Departments: employee number, last name, first name, and department name. <p>
 > 8. Descending order: frequency count of employee last names. <p>
 
-[visuals](EmployeeSQL/visuals) folder__ -- contains images pertinent to the project <p>
+[visuals](EmployeeSQL/visuals) folder -- contains images pertinent to the project <p>
 
 [data board](EmployeeSQL/visuals/data-board.PNG) -- a display of all opened csv files for ERD reference <p>
 > [ERD visual](EmployeeSQL/visuals/erd-visual.PNG) -- a visual of a quickDBD to show the ERD  <p>
-> [ERD visual with code](EmployeeSQL/visuals/erd-visual-code.PNG) -- the ERD visual with included code that was used to create it <p>
+> [ERD code](EmployeeSQL/visuals/erd-code.txt) -- the ERD code used to create the ERD visual <p>
 
 [data](EmployeeSQL/data) folder --  contains the six csv files used in this project <p>
 > [departments](EmployeeSQL/data/departments.csv) <p>
@@ -43,12 +43,11 @@ Given six csv files, I:
 > [titles](EmployeeSQL/data/titles.csv) <p>
 
 
+## Visuals
 
-## Instructions
+![ERD visual](EmployeeSQL/visuals/erd-visual.PNG) <p>
 
-#### Data Modeling
-
-Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
+![ERD code](EmployeeSQL/visual/erd-code.PNG)
 
 #### Data Engineering
 
