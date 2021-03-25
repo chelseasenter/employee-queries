@@ -1,6 +1,6 @@
 # SQL Homework - Employee Database: A Mystery in Two Parts
 
-![sql.png](visuals/sql-hp.png)
+![sql.png](C:\Users\chels\OneDrive\Desktop\UNC Boot Camp\Homework\sql-challenge\EmployeeSQL\visuals\sql-hp.png)
 
 ## Background
 
@@ -8,9 +8,9 @@ I was tasked with analyzing the employee data for the fictional company - Pewlet
 
 ### Data Engineering & Data Analysis
 Given six csv files, I:
- >> created tables to hold the data from the files
- >> stored the tables in a SQL database
- >> used queries to answer questions about the data
+> created tables to hold the data from the files
+> stored the tables in a SQL database
+> used queries to answer questions about the data
 
 ### About the Project
 
