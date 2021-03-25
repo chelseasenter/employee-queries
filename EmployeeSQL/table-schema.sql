@@ -17,9 +17,11 @@ CREATE TABLE titles (
 COPY titles(title_id, title)
 FROM 'C:\Users\chels\OneDrive\Desktop\UNC Boot Camp\Homework\sql-challenge\EmployeeSQL\data\titles.csv'
 DELIMITER ','
-CSV HEADER;
+CSV HEADER
+;
 
-SELECT * FROM titles;
+SELECT * FROM titles
+;
 
 -- Employees: create & import --
 CREATE TABLE employees (
@@ -37,9 +39,11 @@ CREATE TABLE employees (
 COPY employees(emp_no, emp_title_id, birth_date, first_name, last_name, sex, hire_date)
 FROM 'C:\Users\chels\OneDrive\Desktop\UNC Boot Camp\Homework\sql-challenge\EmployeeSQL\data\employees.csv'
 DELIMITER ','
-CSV HEADER;
+CSV HEADER
+;
 
-SELECT * FROM employees;
+SELECT * FROM employees
+;
 
 -- Salaries: create & import --
 CREATE TABLE salaries (
@@ -51,9 +55,11 @@ CREATE TABLE salaries (
 COPY salaries(emp_no, salary)
 FROM 'C:\Users\chels\OneDrive\Desktop\UNC Boot Camp\Homework\sql-challenge\EmployeeSQL\data\salaries.csv'
 DELIMITER ','
-CSV HEADER;
+CSV HEADER
+;
 
-SELECT * FROM salaries;
+SELECT * FROM salaries
+;
 
 -- Departments: create & import --
 CREATE TABLE departments (
@@ -65,9 +71,11 @@ CREATE TABLE departments (
 COPY departments(dept_no, dept_name)
 FROM 'C:\Users\chels\OneDrive\Desktop\UNC Boot Camp\Homework\sql-challenge\EmployeeSQL\data\departments.csv'
 DELIMITER ','
-CSV HEADER;
+CSV HEADER
+;
 
-SELECT * FROM departments;
+SELECT * FROM departments
+;
 
 -- Dept Manager: create & import --
 CREATE TABLE dept_manager (
@@ -80,9 +88,11 @@ CREATE TABLE dept_manager (
 COPY dept_manager(dept_no, emp_no)
 FROM 'C:\Users\chels\OneDrive\Desktop\UNC Boot Camp\Homework\sql-challenge\EmployeeSQL\data\dept_manager.csv'
 DELIMITER ','
-CSV HEADER;
+CSV HEADER
+;
 
-SELECT * FROM dept_manager;
+SELECT * FROM dept_manager
+;
 
 -- Dept Employee: create & import --
 CREATE TABLE dept_employee (
@@ -95,6 +105,8 @@ CREATE TABLE dept_employee (
 COPY dept_employee(emp_no, dept_no)
 FROM 'C:\Users\chels\OneDrive\Desktop\UNC Boot Camp\Homework\sql-challenge\EmployeeSQL\data\dept_emp.csv'
 DELIMITER ','
-CSV HEADER;
+CSV HEADER
+;
 
-SELECT * FROM dept_employee;
+SELECT * FROM dept_employee
+;
