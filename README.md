@@ -16,7 +16,7 @@ Given six csv files, I...
 
 --This repository, __sql-challenge__, contains the main project folder, [EmployeeSQL](EmployeeSQL), where all files are stored: <p> <p>
  
-[Visuals Folder](EmployeeSQL/visuals) Folder -- contains images pertinent to the project <p>
+[Visuals Folder](EmployeeSQL/visuals) -- contains images pertinent to the project <p>
 
 > [Data Board](EmployeeSQL/visuals/data-board.PNG) -- a display of all opened csv files for ERD reference <p>
 > [ERD visual](EmployeeSQL/visuals/erd-visual.PNG) -- a visual of a quickDBD to show the ERD  <p>
@@ -30,7 +30,7 @@ Given six csv files, I...
 > [departments](EmployeeSQL/data/departments.csv) <p>
 > [dept_emp](EmployeeSQL/data/dept_emp.csv) <p>
 > [dept_manager](EmployeeSQL/data/dept_manager.csv) <p>
-> [employees](EmployeeSQL/data/employees.csv) <p>
+> [employees](https://raw.githubusercontent.com/chelseasenter/sql-challenge/main/EmployeeSQL/data/employees.csv) <p>
 > [salaries](EmployeeSQL/data/salaries.csv) <p>
 > [titles](EmployeeSQL/data/titles.csv) <p>
 
