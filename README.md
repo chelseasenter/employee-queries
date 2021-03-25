@@ -36,7 +36,8 @@ This repository, __sql-challenge__, contains the main project folder, [EmployeeS
 >> [dept_manager](EmployeeSQL/data/dept_manager.CSV)
 >> [employees](EmployeeSQL/data/employees.CSV)
 >> [salaries](EmployeeSQL/data/salaries.CSV)
->> [titles](EmployeeSQL/data/titles.CSV)
+>> [titles](EmployeeSQL/data/titles.csv)
+
 
 
 ## Instructions
