@@ -14,7 +14,7 @@ Given six csv files, I:
 
 ### About the Project
 
-This repository, `sql-challenge`, contains the main project folder, __EmployeeSQL__ where all files are stored. Within this folder contains:
+This repository, __sql-challenge]__, contains the main project folder, ![EmployeeSQL](EmployeeSQL) where all files are stored. Within this folder contains:
 > table-schema.sql -- 
 > queries.sql -- 
 > `visuals` folder -- contains images pertinent to the project
