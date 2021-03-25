@@ -7,7 +7,7 @@
 I was tasked with analyzing the employee data for the fictional company - Pewlett Hackard. 
 
 #### Data Engineering & Data Analysis
-Given six csv files, I...
+Given the six csv files:
 > created tables to hold the data from the files <p>
 > stored the tables in a SQL database <p>
 > designed queries to answer questions about the data <p> <p>
@@ -28,10 +28,10 @@ Given six csv files, I...
 [Data Folder](EmployeeSQL/data) --  contains the six csv files used in this project <p>
  
 > [departments](EmployeeSQL/data/departments.csv) <p>
-> [dept_emp](EmployeeSQL/data/dept_emp.csv) <p>
+> [dept_emp](https://raw.githubusercontent.com/chelseasenter/sql-challenge/main/EmployeeSQL/data/dept_emp.csv)  -- file too big for preview, RAW content<p>
 > [dept_manager](EmployeeSQL/data/dept_manager.csv) <p>
-> [employees](https://raw.githubusercontent.com/chelseasenter/sql-challenge/main/EmployeeSQL/data/employees.csv) <p>
-> [salaries](EmployeeSQL/data/salaries.csv) <p>
+> [employees](https://raw.githubusercontent.com/chelseasenter/sql-challenge/main/EmployeeSQL/data/employees.csv) -- file too big for preview, RAW content <p>
+> [salaries](https://raw.githubusercontent.com/chelseasenter/sql-challenge/main/EmployeeSQL/data/salaries.csv) -- file too big for preview, RAW content <p>
 > [titles](EmployeeSQL/data/titles.csv) <p>
 
 [table-schema.sql](EmployeeSQL/table_schema.sql) -- sql file that creates tables, copies csv file information, displays resulting table <p>
