@@ -51,8 +51,8 @@ Given six csv files, I...
 ![ERD visual](EmployeeSQL/visuals/erd-visual.PNG) <p>
 #### ERD Code
 ![ERD code](EmployeeSQL/visuals/erd-code.PNG) <p>
-#### Table Schema
+#### SQL - Table Schema
 ![table schema](EmployeeSQL/visuals/table-schema.PNG) <p>
-
+#### SQL - Queries 
 ![queries](EmployeeSQL/visuals/queries.PNG) <p>
 
