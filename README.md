@@ -21,6 +21,9 @@ Given six csv files, I...
 > [Data Board](EmployeeSQL/visuals/data-board.PNG) -- a display of all opened csv files for ERD reference <p>
 > [ERD visual](EmployeeSQL/visuals/erd-visual.PNG) -- a visual of a quickDBD to show the ERD  <p>
 > [ERD code](EmployeeSQL/visuals/erd-code.txt) -- the ERD code used to create the ERD visual <p>
+> [Table Schema](EmployeeSQL/visuals/table-schema.PNG) - a clip of the SQL table schema file <p>
+> [Queries](EmployeeSQL/visuals/queries.PNG) - a clip of the SQL query file <p>
+> [SQL HP](EmployeeSQL/visuals/sql_hp.PNG) - my creative interpretation of PH's DB Logo (a play on HP's logo) <p>
 
 [Data Folder](EmployeeSQL/data) --  contains the six csv files used in this project <p>
  
