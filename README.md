@@ -14,7 +14,29 @@ Given six csv files, I...
 
 ## Project Folder Outline
 
---This repository, __sql-challenge__, contains the main project folder, [EmployeeSQL](EmployeeSQL) where all files are stored: <p> <p>
+--This repository, __sql-challenge__, contains the main project folder, [EmployeeSQL](EmployeeSQL), where all files are stored: <p> <p>
+ 
+[visuals](EmployeeSQL/visuals) folder -- contains images pertinent to the project <p>
+
+> [data board](EmployeeSQL/visuals/data-board.PNG) -- a display of all opened csv files for ERD reference <p>
+ 
+> [ERD visual](EmployeeSQL/visuals/erd-visual.PNG) -- a visual of a quickDBD to show the ERD  <p>
+
+> [ERD code](EmployeeSQL/visuals/erd-code.txt) -- the ERD code used to create the ERD visual <p>
+
+[data](EmployeeSQL/data) folder --  contains the six csv files used in this project <p>
+ 
+> [departments](EmployeeSQL/data/departments.csv) <p>
+
+> [dept_emp](EmployeeSQL/data/dept_emp.csv) <p>
+
+> [dept_manager](EmployeeSQL/data/dept_manager.csv) <p>
+
+> [employees](EmployeeSQL/data/employees.csv) <p>
+
+> [salaries](EmployeeSQL/data/salaries.csv) <p>
+
+> [titles](EmployeeSQL/data/titles.csv) <p>
 
 [table-schema.sql](EmployeeSQL/table_schema.sql) -- sql file that creates tables, copies csv file information, displays resulting table <p>
 
@@ -28,19 +50,9 @@ Given six csv files, I...
 > 7. Sales and Development Departments: employee number, last name, first name, and department name. <p>
 > 8. Descending order: frequency count of employee last names. <p>
 
-[visuals](EmployeeSQL/visuals) folder -- contains images pertinent to the project <p>
 
-[data board](EmployeeSQL/visuals/data-board.PNG) -- a display of all opened csv files for ERD reference <p>
-> [ERD visual](EmployeeSQL/visuals/erd-visual.PNG) -- a visual of a quickDBD to show the ERD  <p>
-> [ERD code](EmployeeSQL/visuals/erd-code.txt) -- the ERD code used to create the ERD visual <p>
 
-[data](EmployeeSQL/data) folder --  contains the six csv files used in this project <p>
-> [departments](EmployeeSQL/data/departments.csv) <p>
-> [dept_emp](EmployeeSQL/data/dept_emp.csv) <p>
-> [dept_manager](EmployeeSQL/data/dept_manager.csv) <p>
-> [employees](EmployeeSQL/data/employees.csv) <p>
-> [salaries](EmployeeSQL/data/salaries.csv) <p>
-> [titles](EmployeeSQL/data/titles.csv) <p>
+
 
 
 ## Visuals
