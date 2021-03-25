@@ -14,7 +14,7 @@ Given six csv files, I:
 
 ### About the Project
 
-This repository, __sql-challenge__, contains the main project folder, [EmployeeSQL](EmployeeSQL) where all files are stored. Within this folder contains: <p>
+--This repository, __sql-challenge__, contains the main project folder, [EmployeeSQL](EmployeeSQL) where all files are stored <p> <p>
 
 [table-schema.sql](EmployeeSQL/table_schema.sql) -- creates tables, copies csv file information, displays resulting table <p>
 
