@@ -15,18 +15,17 @@ Given six csv files, I:
 ### About the Project
 
 This repository, __sql-challenge__, contains the main project folder, [EmployeeSQL](EmployeeSQL) where all files are stored. Within this folder contains:
-> table-schema.sql -- creates tables, copies csv file information, displays resulting table
-> queries.sql -- contains the queries used for data analysis
->> 1. Details of Employees: employee number, last name, first name, sex, and salary <p>
->> 2. Hired in 1986: list first name, last name, and hire date for employees who were hired in 1986. <p>
->> 3. Manager Information: department number, department name, the manager's employee number, last name, first name. <p>
->> 4. Employee Departments: employee number, last name, first name, and department name. <p>
->> 5. 'Hercules' + 'B': first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B." <p>
->> 6. Sales Department: employee number, last name, first name, and department name. <p>
->> 7. Sales and Development Departments: employee number, last name, first name, and department name. <p>
->> 8. Descending order: frequency count of employee last names. <p>
-
-> [visuals](EmployeeSQL/visuals) folder -- contains images pertinent to the project
+__table-schema.sql__ -- creates tables, copies csv file information, displays resulting table
+__queries.sql__ -- contains the queries used for data analysis
+> 1. Details of Employees: employee number, last name, first name, sex, and salary <p>
+> 2. Hired in 1986: list first name, last name, and hire date for employees who were hired in 1986. <p>
+> 3. Manager Information: department number, department name, the manager's employee number, last name, first name. <p>
+> 4. Employee Departments: employee number, last name, first name, and department name. <p>
+> 5. 'Hercules' + 'B': first name, last name, and sex for employees whose first name is "Hercules" and last names begin with "B." <p>
+> 6. Sales Department: employee number, last name, first name, and department name. <p>
+> 7. Sales and Development Departments: employee number, last name, first name, and department name. <p>
+> 8. Descending order: frequency count of employee last names. <p>
+__[visuals](EmployeeSQL/visuals) folder__ -- contains images pertinent to the project
 >> [data board](EmployeeSQL/visuals/data-board.PNG) -- a display of all opened csv files for ERD reference <p>
 >> [ERD visual](EmployeeSQL/visuals/erd-visual.PNG) -- a visual of a quickDBD to show the ERD  <p>
 >> [ERD visual with code](EmployeeSQL/visuals/erd-visual-code.PNG) -- the ERD visual with included code that was used to create it <p>
