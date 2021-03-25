@@ -16,13 +16,13 @@ Given six csv files, I...
 
 --This repository, __sql-challenge__, contains the main project folder, [EmployeeSQL](EmployeeSQL), where all files are stored: <p> <p>
  
-[visuals](EmployeeSQL/visuals) folder -- contains images pertinent to the project <p>
+[Visuals Folder](EmployeeSQL/visuals) Folder -- contains images pertinent to the project <p>
 
-> [data board](EmployeeSQL/visuals/data-board.PNG) -- a display of all opened csv files for ERD reference <p>
+> [Data Board](EmployeeSQL/visuals/data-board.PNG) -- a display of all opened csv files for ERD reference <p>
 > [ERD visual](EmployeeSQL/visuals/erd-visual.PNG) -- a visual of a quickDBD to show the ERD  <p>
 > [ERD code](EmployeeSQL/visuals/erd-code.txt) -- the ERD code used to create the ERD visual <p>
 
-[data](EmployeeSQL/data) folder --  contains the six csv files used in this project <p>
+[Data Folder](EmployeeSQL/data) --  contains the six csv files used in this project <p>
  
 > [departments](EmployeeSQL/data/departments.csv) <p>
 > [dept_emp](EmployeeSQL/data/dept_emp.csv) <p>
