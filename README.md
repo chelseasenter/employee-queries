@@ -45,7 +45,14 @@ Given six csv files, I...
 
 ## Visuals
 
+#### Data Board
+![data board](EmployeeSQL/visuals/data-board.PNG) <p>
+#### ERD Visual
 ![ERD visual](EmployeeSQL/visuals/erd-visual.PNG) <p>
+#### ERD Code
+![ERD code](EmployeeSQL/visuals/erd-code.PNG) <p>
+#### Table Schema
+![table schema](EmployeeSQL/visuals/table-schema.PNG) <p>
 
-![ERD code](EmployeeSQL/visuals/erd-code.PNG)
+![queries](EmployeeSQL/visuals/queries.PNG) <p>
 
