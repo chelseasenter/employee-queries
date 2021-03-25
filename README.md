@@ -1,6 +1,6 @@
 # SQL Homework - Employee Database: A Mystery in Two Parts
 
-![sql.png](C:\Users\chels\OneDrive\Desktop\UNC Boot Camp\Homework\sql-challenge\EmployeeSQL\visuals\sql-hp.png)
+![sql.png](visuals/sql-hp.png)
 
 ## Background
 
