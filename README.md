@@ -14,9 +14,9 @@ Given six csv files, I:
 
 ### About the Project
 
-This repository, __sql-challenge__, contains the main project folder, [EmployeeSQL](EmployeeSQL) where all files are stored. Within this folder contains:
-__table-schema.sql__ -- creates tables, copies csv file information, displays resulting table
-__queries.sql__ -- contains the queries used for data analysis
+This repository, __sql-challenge__, contains the main project folder, [EmployeeSQL](EmployeeSQL) where all files are stored. Within this folder contains: <p>
+__table-schema.sql__ -- creates tables, copies csv file information, displays resulting table <p>
+__queries.sql__ -- contains the queries used for data analysis <p>
 > 1. Details of Employees: employee number, last name, first name, sex, and salary <p>
 > 2. Hired in 1986: list first name, last name, and hire date for employees who were hired in 1986. <p>
 > 3. Manager Information: department number, department name, the manager's employee number, last name, first name. <p>
@@ -25,11 +25,11 @@ __queries.sql__ -- contains the queries used for data analysis
 > 6. Sales Department: employee number, last name, first name, and department name. <p>
 > 7. Sales and Development Departments: employee number, last name, first name, and department name. <p>
 > 8. Descending order: frequency count of employee last names. <p>
-__[visuals](EmployeeSQL/visuals) folder__ -- contains images pertinent to the project
->> [data board](EmployeeSQL/visuals/data-board.PNG) -- a display of all opened csv files for ERD reference <p>
+#### [visuals](EmployeeSQL/visuals) folder__ -- contains images pertinent to the project <p>
+#### [data board](EmployeeSQL/visuals/data-board.PNG) -- a display of all opened csv files for ERD reference <p>
 >> [ERD visual](EmployeeSQL/visuals/erd-visual.PNG) -- a visual of a quickDBD to show the ERD  <p>
 >> [ERD visual with code](EmployeeSQL/visuals/erd-visual-code.PNG) -- the ERD visual with included code that was used to create it <p>
-> [data](EmployeeSQL/data) folder --  contains the six csv files used in this project
+> [data](EmployeeSQL/data) folder --  contains the six csv files used in this project <p>
 >> [departments](EmployeeSQL/data/departments.csv) <p>
 >> [dept_emp](EmployeeSQL/data/dept_emp.csv) <p>
 >> [dept_manager](EmployeeSQL/data/dept_manager.csv) <p>
