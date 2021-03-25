@@ -15,14 +15,18 @@ Given six csv files, I:
 ### About the Project
 
 This repository, `sql-challenge`, contains the main project folder, __EmployeeSQL__ where all files are stored. Within this folder contains:
-> this README file
-> table-schema.sql
-> queries.sql
-> `visuals` 
+> table-schema.sql -- 
+> queries.sql -- 
+> `visuals` folder -- contains images pertinent to the project
 >> pseudo `data board` -- all open csv files displayed for ERD reference
 >> 
-> `data` 
->> 
+> `data` folder -- contains the six csv files
+>> departments
+>> dept_emp
+>> dept_manager
+>> employees
+>> salaries
+>> titles
 
 ## Instructions
 
